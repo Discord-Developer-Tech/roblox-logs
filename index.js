@@ -1,5 +1,5 @@
 const key = "d9awm2ADl2mA0d329nAMl0ADo52jSDdoawGNxvZxuW4sUASCmgowA85"
-const token = "ODEyODQ3MTc5OTA3MDcyMDAx.YDGs7Q.mexYktHUigNswnC9fHh3vD3hpsU"
+const token = "ODEyODQ3MTc5OTA3MDcyMDAx.YDGs7Q.vCBs7zD7p1FaLOSsGy80Y85kes0"
 
 async function run() {
     global.discordjs = require("discord.js")
